@@ -1,3 +1,12 @@
+# 📊 Excel Business Analysis Portfolio
+
+Welcome to my Excel-based business analytics portfolio. This repository showcases practical reports I've created to demonstrate my skills in Excel, Power Query, Pivot Tables, and business data interpretation.
+
+Each report is based on real-world formats and focuses on data-driven decision-making.
+
+## 🔍 Projects Included
+
+
 ## Sales Report :
 
 
